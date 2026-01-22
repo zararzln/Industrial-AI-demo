@@ -233,7 +233,7 @@ MIT License - see LICENSE file for details
 ## 👤 Author
 
 **Zara Razlan**
-- AI Engineer with focus on production-grade LLM systems
+- Aspiring AI Engineer with focus on production-grade LLM systems
 - Specializing in industrial AI applications and multi-agent workflows
 
 ## 🙏 Acknowledgments
